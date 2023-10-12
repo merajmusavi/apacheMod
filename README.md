@@ -1,5 +1,5 @@
 # apacheMod
-in this bash script i write a script that you can use it to disable/enable a moudle of apache.
+in this bash script i write a script that you can use it to disable/enable a module of apache.
 
 # how to use it
 after you After yo have downloaded the file,
