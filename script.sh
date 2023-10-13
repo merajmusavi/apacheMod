@@ -26,4 +26,4 @@ else
         echo "invalid format"
         exit 1
 fi
-~    
+   
